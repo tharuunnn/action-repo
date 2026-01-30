@@ -6,3 +6,5 @@ test 2 - completedmongo insert test
 
 
 ui test - is this working ?
+
+test - clean head commit push
